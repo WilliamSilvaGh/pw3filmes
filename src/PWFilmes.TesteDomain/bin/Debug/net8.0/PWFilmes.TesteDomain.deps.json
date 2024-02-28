@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PWFilmes.TesteDomain/1.0.0": {
+        "dependencies": {
+          "PWFilmes.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PWFilmes.TesteDomain.dll": {}
+        }
+      },
+      "PWFilmes.Domain/1.0.0": {
+        "runtime": {
+          "PWFilmes.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PWFilmes.TesteDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PWFilmes.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

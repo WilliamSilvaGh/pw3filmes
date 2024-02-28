@@ -1,0 +1,11 @@
+C:\PWIII\PWFilmes\src\PWFilmes.Domain\bin\Debug\net8.0\PWFilmes.Domain.deps.json
+C:\PWIII\PWFilmes\src\PWFilmes.Domain\bin\Debug\net8.0\PWFilmes.Domain.dll
+C:\PWIII\PWFilmes\src\PWFilmes.Domain\bin\Debug\net8.0\PWFilmes.Domain.pdb
+C:\PWIII\PWFilmes\src\PWFilmes.Domain\obj\Debug\net8.0\PWFilmes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PWIII\PWFilmes\src\PWFilmes.Domain\obj\Debug\net8.0\PWFilmes.Domain.AssemblyInfoInputs.cache
+C:\PWIII\PWFilmes\src\PWFilmes.Domain\obj\Debug\net8.0\PWFilmes.Domain.AssemblyInfo.cs
+C:\PWIII\PWFilmes\src\PWFilmes.Domain\obj\Debug\net8.0\PWFilmes.Domain.csproj.CoreCompileInputs.cache
+C:\PWIII\PWFilmes\src\PWFilmes.Domain\obj\Debug\net8.0\PWFilmes.Domain.dll
+C:\PWIII\PWFilmes\src\PWFilmes.Domain\obj\Debug\net8.0\refint\PWFilmes.Domain.dll
+C:\PWIII\PWFilmes\src\PWFilmes.Domain\obj\Debug\net8.0\PWFilmes.Domain.pdb
+C:\PWIII\PWFilmes\src\PWFilmes.Domain\obj\Debug\net8.0\ref\PWFilmes.Domain.dll
