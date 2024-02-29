@@ -1,0 +1,17 @@
+C:\PWIII\PWFilmes\src\PWFilmes.Data\bin\Debug\net8.0\PWFilmes.Data.deps.json
+C:\PWIII\PWFilmes\src\PWFilmes.Data\bin\Debug\net8.0\PWFilmes.Data.dll
+C:\PWIII\PWFilmes\src\PWFilmes.Data\bin\Debug\net8.0\PWFilmes.Data.pdb
+C:\PWIII\PWFilmes\src\PWFilmes.Data\bin\Debug\net8.0\PWFilmes.Domain.dll
+C:\PWIII\PWFilmes\src\PWFilmes.Data\bin\Debug\net8.0\PWFilmes.Domain.pdb
+C:\PWIII\PWFilmes\src\PWFilmes.Data\obj\Debug\net8.0\PWFilmes.Data.csproj.AssemblyReference.cache
+C:\PWIII\PWFilmes\src\PWFilmes.Data\obj\Debug\net8.0\PWFilmes.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\PWIII\PWFilmes\src\PWFilmes.Data\obj\Debug\net8.0\PWFilmes.Data.AssemblyInfoInputs.cache
+C:\PWIII\PWFilmes\src\PWFilmes.Data\obj\Debug\net8.0\PWFilmes.Data.AssemblyInfo.cs
+C:\PWIII\PWFilmes\src\PWFilmes.Data\obj\Debug\net8.0\PWFilmes.Data.csproj.CoreCompileInputs.cache
+C:\PWIII\PWFilmes\src\PWFilmes.Data\obj\Debug\net8.0\PWFilmes.Data.csproj.CopyComplete
+C:\PWIII\PWFilmes\src\PWFilmes.Data\obj\Debug\net8.0\PWFilmes.Data.dll
+C:\PWIII\PWFilmes\src\PWFilmes.Data\obj\Debug\net8.0\refint\PWFilmes.Data.dll
+C:\PWIII\PWFilmes\src\PWFilmes.Data\obj\Debug\net8.0\PWFilmes.Data.pdb
+C:\PWIII\PWFilmes\src\PWFilmes.Data\obj\Debug\net8.0\ref\PWFilmes.Data.dll
+C:\PWIII\PWFilmes\src\PWFilmes.Data\bin\Debug\net8.0\PWFilmes.Data.runtimeconfig.json
+C:\PWIII\PWFilmes\src\PWFilmes.Data\obj\Debug\net8.0\PWFilmes.Data.genruntimeconfig.cache
