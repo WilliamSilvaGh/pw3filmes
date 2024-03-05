@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PWIII\\PWFilmes\\src\\PWFilmes.Domain\\PWFilmes.Domain.csproj",
+      "projectUniqueName": "C:\\pw3filmes\\src\\PWFilmes.Domain\\PWFilmes.Domain.csproj",
       "projectName": "PWFilmes.Domain",
-      "projectPath": "C:\\PWIII\\PWFilmes\\src\\PWFilmes.Domain\\PWFilmes.Domain.csproj",
+      "projectPath": "C:\\pw3filmes\\src\\PWFilmes.Domain\\PWFilmes.Domain.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\PWIII\\PWFilmes\\src\\PWFilmes.Domain\\obj\\",
+      "outputPath": "C:\\pw3filmes\\src\\PWFilmes.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

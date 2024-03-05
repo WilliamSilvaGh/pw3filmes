@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VWx0BpE0i3s1g9+eP9GaVzMSKNk9erpCsoiVCxPCa/BDK4GriD2e/NjAT+3penCOObL4PQxEtlyHf9uELYJKVw==",
+  "dgSpecHash": "tpeP8+0T8ISGXRyTqWfjBB3c2KHqhhrrvQyix8RV707gN061sA+Q+BzoFAXwLe8qyK7WqPciDgL+VEtrtR4xzQ==",
   "success": true,
-  "projectFilePath": "C:\\PWIII\\PWFilmes\\src\\PWFilmes.Domain\\PWFilmes.Domain.csproj",
+  "projectFilePath": "C:\\pw3filmes\\src\\PWFilmes.Domain\\PWFilmes.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fwnatELdgdOn7ZaUTkXDniDF00VAv7exhkIXp29KZLUxEKCuY+DNT634hvH1ZIh/lcdUzTcUwLBGHvh2KOVIWg==",
+  "dgSpecHash": "E8tuAcdy95yTD0CODirR072mMU3lHCSVy5I1MAUhRuMKDbAqg4zW4ggw72qXbGzKZqKorNEYaPKReVPKx3edTw==",
   "success": true,
-  "projectFilePath": "C:\\PWIII\\PWFilmes\\src\\PWFilmes.Data\\PWFilmes.Data.csproj",
+  "projectFilePath": "C:\\pw3filmes\\src\\PWFilmes.Data\\PWFilmes.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

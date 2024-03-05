@@ -9,7 +9,10 @@ namespace PWFilmes.Domain.Entities
 {
     public class Categoria: EntityBase
     {
-        public string Descricao { get; set; }
+        public string Descricao { get; private set; }
+        //entidade blindada, só pode ser alterada
+        //pela própria classe, nesse caso o construtor
+        //se encarrega disso via parâmetro
 
         protected Categoria() {}
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PWFilmes.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93b02a4ae79bada8d718531707825b6bfb316fd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PWFilmes.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PWFilmes.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

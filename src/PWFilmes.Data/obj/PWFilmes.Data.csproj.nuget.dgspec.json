@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PWIII\\PWFilmes\\src\\PWFilmes.Data\\PWFilmes.Data.csproj": {}
+    "C:\\pw3filmes\\src\\PWFilmes.Data\\PWFilmes.Data.csproj": {}
   },
   "projects": {
-    "C:\\PWIII\\PWFilmes\\src\\PWFilmes.Data\\PWFilmes.Data.csproj": {
+    "C:\\pw3filmes\\src\\PWFilmes.Data\\PWFilmes.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PWIII\\PWFilmes\\src\\PWFilmes.Data\\PWFilmes.Data.csproj",
+        "projectUniqueName": "C:\\pw3filmes\\src\\PWFilmes.Data\\PWFilmes.Data.csproj",
         "projectName": "PWFilmes.Data",
-        "projectPath": "C:\\PWIII\\PWFilmes\\src\\PWFilmes.Data\\PWFilmes.Data.csproj",
+        "projectPath": "C:\\pw3filmes\\src\\PWFilmes.Data\\PWFilmes.Data.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\PWIII\\PWFilmes\\src\\PWFilmes.Data\\obj\\",
+        "outputPath": "C:\\pw3filmes\\src\\PWFilmes.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\PWIII\\PWFilmes\\src\\PWFilmes.Domain\\PWFilmes.Domain.csproj": {
-                "projectPath": "C:\\PWIII\\PWFilmes\\src\\PWFilmes.Domain\\PWFilmes.Domain.csproj"
+              "C:\\pw3filmes\\src\\PWFilmes.Domain\\PWFilmes.Domain.csproj": {
+                "projectPath": "C:\\pw3filmes\\src\\PWFilmes.Domain\\PWFilmes.Domain.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\PWIII\\PWFilmes\\src\\PWFilmes.Domain\\PWFilmes.Domain.csproj": {
+    "C:\\pw3filmes\\src\\PWFilmes.Domain\\PWFilmes.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PWIII\\PWFilmes\\src\\PWFilmes.Domain\\PWFilmes.Domain.csproj",
+        "projectUniqueName": "C:\\pw3filmes\\src\\PWFilmes.Domain\\PWFilmes.Domain.csproj",
         "projectName": "PWFilmes.Domain",
-        "projectPath": "C:\\PWIII\\PWFilmes\\src\\PWFilmes.Domain\\PWFilmes.Domain.csproj",
+        "projectPath": "C:\\pw3filmes\\src\\PWFilmes.Domain\\PWFilmes.Domain.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\PWIII\\PWFilmes\\src\\PWFilmes.Domain\\obj\\",
+        "outputPath": "C:\\pw3filmes\\src\\PWFilmes.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
